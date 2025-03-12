@@ -24,7 +24,8 @@
 <h2 align="left">Languages-Frameworks-Tools :</h2> <br>
 
 <div align="center">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode&theme=light&perline=15" alt="My Skills" /></a>
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png">
 </div> <br>
 <br>
 
