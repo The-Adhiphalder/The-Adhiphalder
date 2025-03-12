@@ -16,7 +16,7 @@
 
 
 <div align="center">
-        ![Adhiphalder01's GitHub Stats](https://github-readme-stats.vercel.app/api?                username=Adhiphalder01&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![Adhiphalder01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adhiphalder01&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adhiphalder01&theme=dracula&hide_border=false)
 
