@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Adhiphalder01"/> <br> <br>
 <div align="center" >
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=900&size=39&pause=1000&color=F71D75&width=435&lines=Hello%2C+There!;I'm+Adhip+Halder;A+web-developer;Nice+to+meet+you!" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=DE3163&vCenter=true&random=false&width=600&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Adhip+Halder+;A+web-developer;Nice+to+meet+you!" alt="Typing SVG"/></a>
 </div>
 <h2 align="left">About Me :</h2>
 
