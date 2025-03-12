@@ -14,11 +14,18 @@
 <br>
 
 <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Adhiphalder01&theme=dracula&show_icons=true&hide_border=false&count_private=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=Adhiphalder01&theme=dracula&show_icons=true&hide_border=false&count_private=true"> <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhiphalder01&theme=dracula&hide_border=false" alt="GitHub Streak Stats"> <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiphalder01&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
-
 </div>
 
+<br>
+
+<h2 align="left">Languages-Frameworks-Tools :</h2> <br>
+
+<div align="center">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode&theme=light&perline=15" alt="My Skills" /></a>
+</div> <br>
+<br>
 
     
