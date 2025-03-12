@@ -13,11 +13,9 @@
 </p>
 <br>
 
-<div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Adhiphalder01&theme=dracula&show_icons=true&hide_border=false&count_private=true"> <br> <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhiphalder01&theme=dracula&hide_border=false" alt="GitHub Streak Stats"> <br> <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiphalder01&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Adhiphalder01&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Adhiphalder01&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiphalder01&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 
