@@ -13,16 +13,12 @@
 </p>
 <br>
 
-
-
 <div align="center">
-![Adhiphalder01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adhiphalder01&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+        <img src="https://github-readme-stats.vercel.app/api?username=Adhiphalder01&theme=dracula&show_icons=true&hide_border=false&count_private=true">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhiphalder01&theme=dracula&hide_border=false" alt="GitHub Streak Stats"> <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiphalder01&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adhiphalder01&theme=dracula&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiphalder01&theme=dracula&layout=compact&hide_border=false)
 </div>
-
 
 
     
