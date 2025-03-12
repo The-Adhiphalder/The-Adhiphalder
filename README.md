@@ -7,7 +7,9 @@
 <p align="center">
 <strong><code>🚀 IT Engineering Graduate | Graphic Designer | Ethical Hacking Enthusiast</code></strong><br>
 
-Hello, I'm Adhip Halder, an IT Engineering graduate, combining my passion for technology and artistic creativity as a Graphic Designer. My work in design is complemented by a deep interest in Ethical Hacking, where I have developed expertise in various cybersecurity domains.I navigate complex security challenges, including DoS and DDoS attacks, Man-in-the-Middle techniques, Spoofing, Session Hijacking, SQL Injection, and Phishing strategies. Additionally, I am proficient in powerful cybersecurity tools such as the Social Engineering Toolkit (SET), OSINT, Tshark, and Hydra. With a strong foundation in both design and cybersecurity, I strive to bridge the gap between aesthetics and digital security.
+<p align="center">
+        Hello, I'm Adhip Halder, an IT Engineering graduate, combining my passion for technology and artistic creativity as a Graphic Designer. My work in design is complemented by a deep interest in Ethical Hacking, where I have developed expertise in various cybersecurity domains.I navigate complex security challenges, including DoS and DDoS attacks, Man-in-the-Middle techniques, Spoofing, Session Hijacking, SQL Injection, and Phishing strategies. Additionally, I am proficient in powerful cybersecurity tools such as the Social Engineering Toolkit (SET), OSINT, Tshark, and Hydra. With a strong foundation in both design and cybersecurity, I strive to bridge the gap between aesthetics and digital security.
+</p>
 </p>
 <br>
 
