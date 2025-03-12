@@ -15,9 +15,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adhiphalder01&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
+  <img width="12" 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Adhiphalder01&theme=dracula&hide_border=false" />
-  <br/>
+  <br/> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiphalder01&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
